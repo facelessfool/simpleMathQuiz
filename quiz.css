@@ -1,0 +1,92 @@
+body{
+	
+	margin:40;
+	font-family: "Avenir", "Montserrat", "Ubuntu" ;
+	padding-top: 10%;
+background: #CAC531;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F3F9A7, #CAC531);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F3F9A7, #CAC531); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h2{
+	margin-left:23%;
+	margin-top: 5%;
+}
+
+#iAdd{
+
+	margin-left: 10%;
+}
+
+#iSub{
+	margin-right: 30%;
+
+	margin-left: 14%;
+}
+
+#fAdd{
+	padding-right: 40px;
+	margin-top: 2%;
+	margin-right: 10%;
+
+	margin-left: 10%;
+}
+
+#fSub{
+	padding-right: 40px;
+
+	margin-right: 30%;
+
+	margin-left: 4%;
+}
+
+#cAdd{
+	margin-top: 2%;
+	margin-right: 10%;
+
+	margin-left: 10%;
+}
+
+#cSub{
+margin-right: 30%;
+
+	margin-left:3.5% ;
+}
+
+#score{
+	color: #fff !important;
+	margin-top: 5%;
+	margin-left: 18%;
+	background: #0b82e3;
+	
+}
+#reset{
+	margin-right: 30%;
+
+	margin-left: 3%;
+color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding: 20px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+	
+	
+}
+
+button{
+color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #258209;
+padding: 20px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+background: #3ca358;  /* fallback for old browsers */
+
+
+}
